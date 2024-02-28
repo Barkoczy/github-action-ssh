@@ -31,7 +31,7 @@
     "node-ssh": "^13.0.0"
   },
   "devDependencies": {
-    "@types/node": "^16.11.6",
+    "@types/node": "^20.11.1",
     "@types/ssh2": "^1.11.6",
     "@types/ssh2-streams": "^0.1.9",
     "@vercel/ncc": "^0.34.0",
